@@ -1,0 +1,20 @@
+{
+  "name": "is-npm-Palindrome",
+  "version": "1.0.0",
+  "description": "'A package which check given string is a Palindrome string or not in js'",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoushanFW196/is-npm-string.git"
+  },
+  "author": "Roushan6338",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoushanFW196/is-npm-string/issues"
+  },
+  "homepage": "https://github.com/RoushanFW196/is-npm-string#readme"
+}
